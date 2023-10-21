@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    color: #8B8E96;
+}
+.bg-footer{
+    background-color: #24272e;
+    color: white;
+}
+
+p{
+    color:#8B8E96;
+}
+li{
+    list-style: none;
+ 
+}
+.name-product{
+    text-transform: uppercase;
+}
+.brand{
+    letter-spacing: 0.1em;
+    color: #ADADAD;
+}
+.input-group{
+    border-radius: 50px;
+}
+a.nav-link{
+    font-weight: bold;
+}
+.nav-item{
+    margin-left: 50px;
+}
+.nav-link:hover{
+    color: rgb(192, 120, 94);
+}
+.dropdown-menu {
+    display: none;
+}
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.contenct-right{
+    text-align: left;
+}
